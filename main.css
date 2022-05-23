@@ -1,0 +1,14 @@
+body{
+    background-color: fff;
+}
+#caja
+{
+    background-color:#ffa;
+    border: 5px solid #eee;
+    padding-left: 10px;
+}
+h1
+{
+    font-size: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
